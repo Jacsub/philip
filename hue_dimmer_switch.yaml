@@ -22,7 +22,6 @@ blueprint:
       selector:
         device:
           integration: zha
-          manufacturer: Philips
           entity:
             domain: sensor
             device_class: battery
